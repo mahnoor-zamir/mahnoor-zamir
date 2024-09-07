@@ -56,10 +56,10 @@ A passionate developer working on **Imaginari AI**,
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahnoor-zamir&theme=react" style="width:100%"/>
 <div align="center" style="width:100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahnoor-zamir&theme=react" style="width:50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahnoor-zamir&theme=react" style="width:50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahnoor-zamir&theme=react" style="width:40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahnoor-zamir&theme=react" style="width:40%">
 </div>
 <div align="center" style="width:100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahnoor-zamir&theme=react" style="width:50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahnoor-zamir&theme=react" style="width:50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahnoor-zamir&theme=react" style="width:40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahnoor-zamir&theme=react" style="width:40%">
 </div>
