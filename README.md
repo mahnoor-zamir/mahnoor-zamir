@@ -55,9 +55,9 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahnoor-zamir&theme=algolia&column=7&row=1&no-bg=true&no-frame=true" alt="Profile Trophy">
+  <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahnoor-zamir&theme=algolia&column=7&row=1&no-bg=true&no-frame=true" alt="Profile Trophy">
 </div>
