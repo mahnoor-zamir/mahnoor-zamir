@@ -21,7 +21,7 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
   </a>
 </p>
 
-## 🛠 Skills
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
@@ -42,7 +42,7 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-## Some Highlights 😎
+## Some Highlights
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahnoor-zamir&theme=react" alt="Repos per Language" style="width:45%">
