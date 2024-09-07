@@ -10,7 +10,7 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 ## Learning
 🧠 **Amazon AWS** and **Natural Language Processing (NLP)**.
 
-## Reach Me At:
+## Reach Me At
 
 <p align="center">
   <a href="mailto:mzamir.bscs21seecs@seecs.edu.pk" target="_blank">
