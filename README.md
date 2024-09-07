@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
-</div>
-
 ## 🚀 Hi there! I'm Mahnoor Zamir 👋🏻
 
 An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
@@ -9,6 +5,26 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahnoor-zamir&theme=algolia&column=7&row=1&no-bg=true&no-frame=true" alt="Profile Trophy">
 </div>
+
+## Currently Working On
+👩‍💻 **Imaginari AI**, a unified tool for generative avatar synthesis for virtual influencer generation using stable diffusion.
+
+🚦 **Speed Monitoring Project** for Niman Road, Thailand, in collaboration with Pak Thai Innovation Lab.
+
+## Learning
+🧠 **Amazon AWS** and **Natural Language Processing (NLP)**.
+
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="mailto:mzamir.bscs21seecs@seecs.edu.pk" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mahnoorzamir" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
+
 
 ## 🛠 Skills
 
@@ -28,36 +44,13 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
-  ![NLP](https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge&logo=python&logoColor=white)
 </p>
 
-## 🏗️ Working On
-
-- **Imaginari AI**: A unified tool for generative avatar synthesis for virtual influencer generation using stable diffusion.
-- **Speed Monitoring Project**: Developing a speed monitoring system for Niman Road, Thailand, in collaboration with Pak Thai Innovation Lab.
-
-## 🧠 Currently learning
- **Amazon AWS** and **Natural Language Processing (NLP)**.
-
-👯‍♀️ I'm looking to collaborate on **Generative AI, MERN Stack Projects, and Computer Vision**.
-
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="mailto:mzamir.bscs21seecs@seecs.edu.pk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" height="40" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mahnoorzamir" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
+</div>
 
 ## Some Highlights 😎
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahnoor-zamir&theme=react" alt="Profile Details" style="width:100%"/>
-</p>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahnoor-zamir&theme=react" alt="Repos per Language" style="width:45%">
