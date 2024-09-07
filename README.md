@@ -1,38 +1,79 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mda1458&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="GitHub Streak">
+</div>
 
-Welcome to my GitHub profile! I’m Mahnoor Zamir, a passionate developer specializing in web development, AI, and machine learning. Here’s a snapshot of what I’m up to:
+## <div align="center">🚀 Hi there! I'm Muhammad Danish Azeem 👋🏻</div>
 
-- 🔭 **Currently Working On**: 
-  - **[CarHive](https://carhive.eduam.dev)**: A platform for vehicle-related resources and services.
-  - **[EyeSite](https://github.com/yourusername/eyesite)**: An initiative to provide eye screening tests for underprivileged individuals.
-  - **[Imaginari AI](https://github.com/yourusername/imaginari-ai)**: A platform for generating realistic images of virtual influencers using AI.
+An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 
-- 🌱 **Currently Learning**: 
-  - Deepening my knowledge in machine learning and exploring advanced techniques in generative AI.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mda1458&theme=algolia&column=7&row=1&no-bg=true&no-frame=true" alt="GitHub Trophy">
+</div>
 
-- 👯 **Looking to Collaborate On**: 
-  - Innovative AI projects, especially those involving image generation and virtual influencers.
+- 👩‍💻 **Currently Working On**: JavaScript frameworks
+- 🧠 **Currently Learning**: Full Stack Web Development
+- 👯‍♀️ **Looking to Collaborate On**: Web Development and Cyber Security
+- 🤔 **Looking for Help With**: Cyber Security
 
-- 🤔 **Looking for Help With**: 
-  - Integrating advanced AI models and optimizing performance for real-world applications.
+## 📫 How to Reach Me
 
-- 💬 **Ask Me About**: 
-  - Web development, machine learning, and generative AI.
+<p align="center">
+  <a href="https://mdanish1458.netlify.app/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3178/3178285.png" alt="Website" height="50" width="50" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:muhammaddanish1458@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mda1458" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mda1458/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="Facebook" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/iamdanish1458" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png" alt="Instagram" height="45" width="45" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Mda1458" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="50" width="50" />
+  </a>
+</p>
 
-- 📫 **How to Reach Me**: 
-  - **Email**: [your-email@example.com](mailto:your-email@example.com)
-  - **LinkedIn**: [Mahnoor Zamir](https://linkedin.com/in/yourprofile)
-  - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+## <div align="center">Visitor's Count 👀</div>
 
-- 😄 **Pronouns**: She/Her
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mda1458/count.svg" alt="Visitor Count">
+</p>
 
-- ⚡ **Fun Fact**: 
-  - I co-founded **VTON**, a startup focused on AI-based virtual try-on solutions for retail. I’ve also recently published a paper on enhancing medical image datasets with Stable Diffusion.
+## <div align="center">🛠 Skills</div>
 
-## GitHub Stats
+<p align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+  ![Sanity](https://img.shields.io/badge/Sanity-F03E2F.svg?style=for-the-badge&logo=Sanity&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
-![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahnoor-zamir&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-zamir&layout=compact&theme=radical)
+## <div align="center">Some Highlights 😎</div>
 
-Feel free to explore my repositories and connect with me!
-
+<div align="center" style="width:100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mda1458&theme=react" style="width:100%" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mda1458&theme=react" style="width:50%" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mda1458&theme=react" style="width:50%" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mda1458&theme=react" style="width:50%" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mda1458&theme=react" style="width:50%" alt="Productive Time">
+</div>
