@@ -37,13 +37,12 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 - **Imaginari AI**: A unified tool for generative avatar synthesis for virtual influencer generation using stable diffusion.
 - **Speed Monitoring Project**: Developing a speed monitoring system for Niman Road, Thailand, in collaboration with Pak Thai Innovation Lab.
 
-## 🧠 Currently Learning
-
-**Amazon AWS** and **Natural Language Processing (NLP)**.
+## 🧠 Currently learning
+ **Amazon AWS** and **Natural Language Processing (NLP)**.
 
 👯‍♀️ I'm looking to collaborate on **Generative AI, MERN Stack Projects, and Computer Vision**.
 
-## 📫 How to Reach Me
+## 📫 How to reach me:
 
 <p align="center">
   <a href="mailto:mzamir.bscs21seecs@seecs.edu.pk" target="_blank">
