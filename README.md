@@ -61,7 +61,3 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahnoor-zamir&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
