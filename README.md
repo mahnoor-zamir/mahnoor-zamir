@@ -41,19 +41,3 @@ An enthusiastic Computer Science student at SEECS, NUST, Islamabad.
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
-## Some Highlights
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahnoor-zamir&theme=react" alt="Repos per Language" style="width:45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahnoor-zamir&theme=react" alt="Most Commit Language" style="width:45%">
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahnoor-zamir&theme=react" alt="Stats" style="width:45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahnoor-zamir&theme=react" alt="Productive Time" style="width:45%">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahnoor-zamir&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB" alt="Streak Stats">
-</div>
